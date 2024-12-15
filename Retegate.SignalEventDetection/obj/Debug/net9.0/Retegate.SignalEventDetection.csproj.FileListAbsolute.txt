@@ -1,0 +1,11 @@
+/Users/pavelkudrna/RiderProjects/Retegate.SignalEventDetection/Retegate.SignalEventDetection/bin/Debug/net9.0/Retegate.SignalEventDetection.deps.json
+/Users/pavelkudrna/RiderProjects/Retegate.SignalEventDetection/Retegate.SignalEventDetection/bin/Debug/net9.0/Retegate.SignalEventDetection.dll
+/Users/pavelkudrna/RiderProjects/Retegate.SignalEventDetection/Retegate.SignalEventDetection/bin/Debug/net9.0/Retegate.SignalEventDetection.pdb
+/Users/pavelkudrna/RiderProjects/Retegate.SignalEventDetection/Retegate.SignalEventDetection/obj/Debug/net9.0/Retegate.SignalEventDetection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelkudrna/RiderProjects/Retegate.SignalEventDetection/Retegate.SignalEventDetection/obj/Debug/net9.0/Retegate.SignalEventDetection.AssemblyInfoInputs.cache
+/Users/pavelkudrna/RiderProjects/Retegate.SignalEventDetection/Retegate.SignalEventDetection/obj/Debug/net9.0/Retegate.SignalEventDetection.AssemblyInfo.cs
+/Users/pavelkudrna/RiderProjects/Retegate.SignalEventDetection/Retegate.SignalEventDetection/obj/Debug/net9.0/Retegate.SignalEventDetection.csproj.CoreCompileInputs.cache
+/Users/pavelkudrna/RiderProjects/Retegate.SignalEventDetection/Retegate.SignalEventDetection/obj/Debug/net9.0/Retegate.SignalEventDetection.dll
+/Users/pavelkudrna/RiderProjects/Retegate.SignalEventDetection/Retegate.SignalEventDetection/obj/Debug/net9.0/refint/Retegate.SignalEventDetection.dll
+/Users/pavelkudrna/RiderProjects/Retegate.SignalEventDetection/Retegate.SignalEventDetection/obj/Debug/net9.0/Retegate.SignalEventDetection.pdb
+/Users/pavelkudrna/RiderProjects/Retegate.SignalEventDetection/Retegate.SignalEventDetection/obj/Debug/net9.0/ref/Retegate.SignalEventDetection.dll

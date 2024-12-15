@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retegate.SignalEventDetection", "Retegate.SignalEventDetection\Retegate.SignalEventDetection.csproj", "{A162AF3A-1FEB-4E01-9017-58AAB85BF73D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retegate.SignalEventDetection.Tests", "Retegate.SignalEventDetection.Tests\Retegate.SignalEventDetection.Tests.csproj", "{CD30F2A0-7DA2-43FF-B11C-9E306A6C7234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A162AF3A-1FEB-4E01-9017-58AAB85BF73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A162AF3A-1FEB-4E01-9017-58AAB85BF73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A162AF3A-1FEB-4E01-9017-58AAB85BF73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A162AF3A-1FEB-4E01-9017-58AAB85BF73D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD30F2A0-7DA2-43FF-B11C-9E306A6C7234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD30F2A0-7DA2-43FF-B11C-9E306A6C7234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD30F2A0-7DA2-43FF-B11C-9E306A6C7234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD30F2A0-7DA2-43FF-B11C-9E306A6C7234}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
