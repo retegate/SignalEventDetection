@@ -12,6 +12,8 @@ within signal sometimes is needed. Thus, the Retegate.SignalEventDetection has b
 
 *Note: When none or empty signal provided, the ArgumentNullException is thrown. Signal with the range <0,1> is expected, otherwise ArgumentException is thrown.*
 
+Please, be advised that the event start is detected from the signal part starting with 0 sample index and ending in maximum signal peak. I.e. for constant and declining signal the detection fallback to 0 index sample. (If you need similar way to detect more precisely the end of event, you need to transform the signal - reverse it and use the SignalEventDetection again, and reverse the result also vice-versa.)
+
 ## Example
 
 ```C#
