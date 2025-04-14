@@ -4,6 +4,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retegate.SignalEventDetecti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retegate.SignalEventDetection.Tests", "Retegate.SignalEventDetection.Tests\Retegate.SignalEventDetection.Tests.csproj", "{CD30F2A0-7DA2-43FF-B11C-9E306A6C7234}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{BC2CEB0B-E654-4544-8A2A-17CECC2AC8D1}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		Retegate.SignalEventDetection.slnx = Retegate.SignalEventDetection.slnx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

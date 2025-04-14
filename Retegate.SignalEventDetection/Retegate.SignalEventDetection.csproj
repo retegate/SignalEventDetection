@@ -4,6 +4,19 @@
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <PackageId>Retegate.SignalEventDetection</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Retegate</Authors>
+        <Product>SignalEventDetection</Product>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <PackageProjectUrl>https://github.com/retegate/SignalEventDetection</PackageProjectUrl>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <Description>Simple tool for event recise start detection inside event sampled data.</Description>
+        <PackageTags>Akaike information criteria;Events start detection</PackageTags>
     </PropertyGroup>
+
+    <ItemGroup>
+        <None Include="..\README.md" Pack="true" PackagePath=""/>
+    </ItemGroup>
 
 </Project>

@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/SolutionItems/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Retegate.SignalEventDetection.Tests/Retegate.SignalEventDetection.Tests.csproj" />
+  <Project Path="Retegate.SignalEventDetection/Retegate.SignalEventDetection.csproj" />
+</Solution>
